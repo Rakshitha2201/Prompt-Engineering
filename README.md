@@ -18,8 +18,8 @@ The primary aim of this story is to convey a moral lesson, especially to a young
 **Resolution and Moral Realization**: Stinky chooses to leave the fluff with the spider. Through this act of kindness, he realizes that the journey with Dwayne and their friendship is more valuable than the fluff itself.
  
 ## PROGRAM:
-## The Case of the Missing Fluff: A Stinky Sock Mystery
-# Chapter 1: The Great Fluff Disaster
+# The Case of the Missing Fluff: A Stinky Sock Mystery
+## Chapter 1: The Great Fluff Disaster
 Stinky the sock was not just any sock. He was a sock of distinction. He was a sock with a magnificent, puffy, perfectly-circular fluff. He’d won it in a fierce game of ‘Spin the Washing Machine’ and had been very proud of it ever since. But one Tuesday, after an especially violent tumble in the dryer with a pair of very bossy jeans, Stinky discovered something horrifying. His fluff was gone! All that remained was a sad, flat, fluff-less circle.
 
 “Dwayne!” he wailed. “My fluff is gone!”
@@ -27,7 +27,7 @@ Stinky the sock was not just any sock. He was a sock of distinction. He was a so
 Dwayne the dust bunny, Stinky’s best friend, bounced over. “Did you look under the couch? I found a whole potato chip under there once. It was glorious.”
 
 Stinky sighed. Dwayne was helpful, but his priorities were… crunchy.
-# Chapter 2: The Quest for the Fluff
+## Chapter 2: The Quest for the Fluff
 
 Stinky and Dwayne decided to embark on a brave quest. Their mission: Find the Fluff. Their first stop was the sock drawer, a place of silent, static-y dignity. They interrogated a grumpy striped sock named Stripey.
 
@@ -37,7 +37,7 @@ So, Stinky and Dwayne went to find the lint roller. The lint roller, a perpetual
 
 Their final stop was under the bed, a dark and dusty kingdom ruled by a shoe with a terrible sense of direction named Leftie. “Fluff?” said Leftie. “I thought that was the Queen’s royal pillow!”
 
-# Chapter 3: The Fluff-tastic Discovery
+## Chapter 3: The Fluff-tastic Discovery
 
 Following Leftie’s confusing directions, they came to a tiny, cozy nook behind the leg of the bed frame. And there it was. Stinky’s magnificent, puffy, perfectly-circular fluff. But it wasn’t alone. A tiny spider, no bigger than a freckle, was curled up inside it, fast asleep, using the fluff as the most comfortable bed in the universe.
 
